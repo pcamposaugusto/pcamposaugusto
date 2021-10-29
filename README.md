@@ -3,7 +3,7 @@
 Full-Stack | Front-end | Back-end 
 
 - 🤓 Eu estudo programação desde maio de 2021, quando iniciei o curso "Certified Tech Developer", da edtech Digital House
-- 🤖 Atualmente, estou aprendendo JavaScript e Java 
+- 🤖 Atualmente, estou aprendendo JavaScript(React) e Java 
 - ✨ Para conhecer mais do meu trabalho como desenvolvedora, visite o meu portfólio: https://pcamposaugusto.github.io/portfolio-profissional/ 
 
 ##
@@ -22,6 +22,7 @@ Full-Stack | Front-end | Back-end
   <img align="center" alt="Paula-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Paula-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Paula-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Paula-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
 ##
