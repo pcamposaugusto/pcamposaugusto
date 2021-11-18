@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Paula Augusto 👋
 
-Full-Stack | Front-end | Back-end 
+Desenvolvedora Web | Front-end Júnior
 
 - 🤓 Eu estudo programação desde maio de 2021, quando iniciei o curso "Certified Tech Developer", da edtech Digital House
 - 🤖 Atualmente, estou aprendendo JavaScript(React) e Java 
