@@ -1,13 +1,17 @@
-## Olá! Meu nome é Paula Augusto 👋
+## Hi! I'm Paula Augusto 👋
 
-**Web Developer**
+**Jr. Developer Analyst | SysOps - Cloud Systems Administration**
 
 
-- 🤓 Eu estudo programação desde maio de 2021, quando iniciei o curso **"Certified Tech Developer"**, desenvolvido pela **Digital House**, em parceria com **Mercado Livre** e **Globant**. 
-- 🤖 Atualmente, estou estudando as linguagens **JavaScript** e **Java**, os frameworks **React.js** e **Spring**, assim como **AWS** e **Docker**.
-- ✨ Para conhecer mais do meu trabalho como desenvolvedora, visite o meu **portfólio**: https://portfolio-react-pcamposaugusto.vercel.app
+- 🤓 I've been studying programming since May 2021, when I started the **"Certified Tech Developer"** course, developed by **Digital House**, in partnership with the companies **Mercado Livre** and **Globant**.
 
-**Obs.:** O CTD é voltado para a capacitação profissional na indústria de tecnologia da América Latina, com **ênfase em desenvolvimento de sistemas voltados para a web**. A formação é estruturada em **8 eixos**: **fundamentos, front-end, back-end, infraestrutura, qualidade, banco de dados, oficinas técnicas complementares e treinamento de soft skills**.
+- 💻 With **emphasis on web systems development**, CTD's curriculum is structured in **8 axes**: **fundamentals, front-end, back-end, infrastructure, quality, database, complementary technical workshops and soft skills training**.
+
+- 💼 Since March 2022, hired by K2 Partnering Solutions as **Jr. Developer Analyst**, I'm in training to become **SysOps Analyst**.
+
+- 🤖 I am currently studying **Python**, **Linux**, **Computer Networks**, **Information Security**, **AWS** and other tools and content related to the **DevOps culture**.
+
+- ✨ To learn more about my work as a developer, visit my **portfolio**: https://portfolio-react-pcamposaugusto.vercel.app
 
 ##
 
@@ -18,16 +22,20 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Paula-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Paula-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Paula-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Paula-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Paula-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Paula-python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Paula-linux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
+  <img align="center" alt="Paula-aws" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" alt="Paula-Docker" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Paula-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Paula-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Paula-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Paula-Figma" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Paula-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Paula-Sql" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Paula-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Paula-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Paula-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Paula-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Paula-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Paula-Spring" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
   
 ##
