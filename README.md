@@ -11,7 +11,6 @@
 
 - 🤖 I am currently studying **Python**, **Linux**, **Computer Networks**, **Information Security**, **AWS** and other tools and content related to the **DevOps culture**.
 
-- ✨ To learn more about my work as a developer, visit my **portfolio**: https://portfolio-react-pcamposaugusto.vercel.app
 
 ##
 
