@@ -1,15 +1,13 @@
 ## Hi! I'm Paula Augusto 👋
 
-**Jr. Developer Analyst | SysOps - Cloud Systems Administration**
-
 
 - 🤓 I've been studying programming since May 2021, when I started the **"Certified Tech Developer"** course, developed by **Digital House**, in partnership with the companies **Mercado Livre** and **Globant**.
 
 - 💻 With **emphasis on web systems development**, CTD's curriculum is structured in **8 axes**: **fundamentals, front-end, back-end, infrastructure, quality, database, complementary technical workshops and soft skills training**.
 
-- 💼 Since March 2022, hired by K2 Partnering Solutions as **Jr. Developer Analyst**, I'm in training to become **SysOps Analyst**.
+- 💼 Since October 2022, hired by Accenture as **Software Engineer**, I'm in training to become **DevOps**.
 
-- 🤖 I am currently studying **Python**, **Linux**, **Computer Networks**, **Information Security**, **AWS** and other tools and content related to the **DevOps culture**.
+- 🤖 I am currently specializing in the following areas: **Cloud Computing**, **Cloud Migration**, **AWS** and **DevOps**.
 
 
 ##
