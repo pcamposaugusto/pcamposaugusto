@@ -1,13 +1,9 @@
 ## Hi! I'm Paula Augusto 👋
 
 
-- 🤓 I've been studying programming since May 2021, when I started the **"Certified Tech Developer"** course, developed by **Digital House**, in partnership with the companies **Mercado Livre** and **Globant**.
+- 💼 Professional with expertise in **infrastructure automation**, **CI/CD**, and **cloud environment management**. Certified by **AWS**, specializing in **cloud and hybrid architectures** with experience in **migration projects** that drive **innovation**, **cost reduction**, and **digital transformation**. Proven track record in implementing **automated pipelines**, **optimizing deployments**, and **enhancing security and scalability** in **critical environments**. **Collaborative** worker, **ensuring fast, secure, and efficient deliveries**, with a focus on **continuous improvement and operational excellence**.
 
-- 💻 With **emphasis on web systems development**, CTD's curriculum is structured in **8 axes**: **fundamentals, front-end, back-end, infrastructure, quality, database, complementary technical workshops and soft skills training**.
-
-- 💼 Since October 2022, hired by Accenture as **Software Engineer**, I'm in training to become **DevOps**.
-
-- 🤖 I am currently specializing in the following areas: **Cloud Computing**, **Cloud Migration**, **AWS** and **DevOps**.
+- 🤖 I am currently specializing in the following areas: **DevSecOps**, **Cloud Computing**, **Cloud Migration**, **Information Security** and **AWS**.
 
 
 ##
